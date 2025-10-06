@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ecom/static/js/main.7f70c79c.js",
+    "index.html": "/ecom/index.html",
+    "main.7f70c79c.js.map": "/ecom/static/js/main.7f70c79c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7f70c79c.js"
+  ]
+}
