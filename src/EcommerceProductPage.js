@@ -17,7 +17,7 @@ export default function EcommerceProductPage() {
   const [otp, setOtp] = useState('');
   const [paymentSuccess, setPaymentSuccess] = useState(false);
   const [rewards, setRewards] = useState(() => Number(localStorage.getItem('cred_rewards') || 0));
- 
+
   useEffect(() => {
     async function load() {
       setLoading(true);
